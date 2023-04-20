@@ -9,8 +9,6 @@
 
 --> [this stuff is NOT selling on OpenSea](https://opensea.io/21213KK525)
 
-
-## Header 2
 «I have often said, and oftener think,
 that this World is a comedy to those that think,
 a tragedy to those that feel.
