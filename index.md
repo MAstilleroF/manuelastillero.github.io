@@ -12,5 +12,5 @@
                                                    «I have often said, and oftener think,
                                                    that this World is a comedy to those that think,
                                                    a tragedy to those that feel.
-                                                   A solution of why Democritus laughed and Heraclitus wept.»
+                                                   A solution of why Democritus laughed and Heraclitus wept».
                                                    (Horace Walpole)
