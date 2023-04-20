@@ -1,6 +1,5 @@
 
---> [humano, demasiado abogado](https://www.manuelastillero.com), si tienes un problema relacionado con el mundo del derecho, yo te lo resuelvo. FIN
-                                                                 _if you have a problem related to the world of law, I will solve it for you. END_
+--> [humano, demasiado abogado](https://www.manuelastillero.com), si tienes un problema relacionado con el mundo del derecho, yo te lo resuelvo. FIN // _if you have a problem related to the world of law, I will solve it for you. END_
 
 --> [#beyondthelaw](https://www.hololawn.io): a team of HLW-Replicants ready to solve your technolegal problems or, alternatively, to demolish your opponent
 
