@@ -1,12 +1,7 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+--> [humano, demasiado abogado](https://www.manuelastillero.com), si tienes un problema relacionado con el mundo del derecho, to te lo resuelvo. FIN
 
---> [humano, demasiaod abogado](https://www.manuelastillero.com), si tienes un problema relacionado con el mundo del derecho, to te lo resuelvo. FIN
-
---> [#beyondethelaw](https://www.hololawn.io): a team of HLW-Replicants ready to solve your technolegal problems or, alternatively, to demolish your opponent
+--> [#beyondthelaw](https://www.hololawn.io): a team of HLW-Replicants ready to solve your technolegal problems or, alternatively, to demolish your opponent
 
 --> [ACV](https://read.cv/mastillerof): because [LinkedIn](https://www.linkedin.com/in/manuelastillero) is a real bummer
 
