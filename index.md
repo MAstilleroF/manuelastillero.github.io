@@ -5,6 +5,7 @@
 
 --> [holoLAWn, #beyondthelaw](https://www.hololawn.io):
 * un equipo de HLW-Replicantes preparado para resolver tus problemas tecnolegales o, alternativamente, demoler a tu oponente (y el `jodido mundo` si es necesario)
+  * únete a nuestro Discord
 * _a team of HLW-Replicants ready to solve your technolegal problems or, alternatively, to demolish your opponent (and the `fucking` world if necessary)_
 
 --> [ACV](https://read.cv/mastillerof):
