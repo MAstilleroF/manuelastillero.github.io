@@ -5,8 +5,9 @@
 
 --> [holoLAWn, #beyondthelaw](https://www.hololawn.io):
 * un equipo de HLW-Replicantes preparado para resolver tus problemas tecnolegales o, alternativamente, demoler a tu oponente (y el `jodido mundo` si es necesario)
-  * únete a nuestro Discord
+* * únete a nuestro Discord (código de invitación: fEaqeQPmBt) 
 * _a team of HLW-Replicants ready to solve your technolegal problems or, alternatively, to demolish your opponent (and the `fucking` world if necessary)_
+ * fEaqeQPmBt
 
 --> [ACV](https://read.cv/mastillerof):
 * porque [LinkedIn](https://www.linkedin.com/in/manuelastillero) es un `pestiño`
@@ -19,11 +20,6 @@
 --> [OpenSea](https://opensea.io/21213KK525)
 * chismes que `NO` se venden
 * _this stuff is `NOT` selling_
-
-
-- eded
-  - ededed
-    - eded
 
 ```
 "A menudo he dicho, y a menudo pienso,                        «I have often said, and oftener think,
