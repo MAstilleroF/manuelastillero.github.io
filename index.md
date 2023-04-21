@@ -6,13 +6,21 @@
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
---> [#beyondthelaw](https://www.hololawn.io): un equipo de HLW-Replicantes preparado para resolver tus problemas tecnolegales o, alternativamente, demoler a tu oponente (y el jodido musno si ses necesario) // _a team of HLW-Replicants ready to solve your technolegal problems or, alternatively, to demolish your opponent (and the fucking world if necessary)
+--> [holoLAWn, #beyondthelaw](https://www.hololawn.io):
+* un equipo de HLW-Replicantes preparado para resolver tus problemas tecnolegales o, alternativamente, demoler a tu oponente (y el jodido musno si ses necesario)
+* _a team of HLW-Replicants ready to solve your technolegal problems or, alternatively, to demolish your opponent (and the fucking world if necessary)
 
---> [ACV](https://read.cv/mastillerof): porque [LinkedIn](https://www.linkedin.com/in/manuelastillero) es un pestiño // _because LinkedIn is a real bummer
+--> [ACV](https://read.cv/mastillerof):
+* porque [LinkedIn](https://www.linkedin.com/in/manuelastillero) es un pestiño
+* _because LinkedIn is a real bummer
 
---> [#blacKKeysoundbetter](https://www.youtube.com/@blackkeysoundbetter): esto no va de cómo es el mundo, sino de cómo γɘꓘꓘɔɒld lo ve // _this is not about how the world is, but how γɘꓘꓘɔɒld sees it
+--> [#blacKKeysoundbetter](https://www.youtube.com/@blackkeysoundbetter):
+* esto no va de cómo es el mundo, sino de cómo [γɘꓘꓘɔɒld](https://twitter.com/21213KK525) lo ve
+* _this is not about how the world is, but how γɘꓘꓘɔɒld sees it
 
---> estos chismes NO se venden en // _this stuff is NOT selling on [OpenSea](https://opensea.io/21213KK525)
+--> [OpenSea](https://opensea.io/21213KK525)
+* chismes que NO se venden
+* _this stuff is NOT selling
 
 ```
 "A menudo he dicho, y a menudo pienso,                        «I have often said, and oftener think,
