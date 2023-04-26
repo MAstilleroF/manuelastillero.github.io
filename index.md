@@ -16,10 +16,8 @@
 --> [#blacKKeysoundbetter](https://www.youtube.com/@blackkeysoundbetter):
 * esto no va de cómo es el mundo, sino de cómo [γɘꓘꓘɔɒld](https://twitter.com/21213KK525) lo `ve`
 * _this is not about how the world is, but how γɘꓘꓘɔɒld `sees` it_
-
---> [OpenSea](https://opensea.io/21213KK525)
-* chismes que `NO` se venden
-* _this stuff is `NOT` selling_
+  * chismes que `NO` se venden e [OpenSea](https://opensea.io/21213KK525)
+  * _this stuff is `NOT` selling_ on OpenSea
 
 ```
 "A menudo he dicho, y a menudo pienso,                        «I have often said, and oftener think,
